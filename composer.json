@@ -1,0 +1,12 @@
+{
+
+	"name": "sfDoctrineGuardPlugin",
+	"description": "CWS Modified sfDoctrineGuardPlugin",
+	"authors": [
+		{
+			"name": "Jonathan Dart",
+			"email": "jonathan.dart@thewebshop.ca"
+		}
+	]
+
+}
